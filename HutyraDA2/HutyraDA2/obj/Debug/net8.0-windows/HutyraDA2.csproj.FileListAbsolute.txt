@@ -1,0 +1,17 @@
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\bin\Debug\net8.0-windows\HutyraDA2.exe
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\bin\Debug\net8.0-windows\HutyraDA2.deps.json
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\bin\Debug\net8.0-windows\HutyraDA2.runtimeconfig.json
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\bin\Debug\net8.0-windows\HutyraDA2.dll
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\bin\Debug\net8.0-windows\HutyraDA2.pdb
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.Form1.resources
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.csproj.GenerateResource.cache
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.AssemblyInfoInputs.cache
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.AssemblyInfo.cs
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.csproj.CoreCompileInputs.cache
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.sourcelink.json
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.dll
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\refint\HutyraDA2.dll
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.pdb
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\HutyraDA2.genruntimeconfig.cache
+D:\GitHub\CS-3020\HutyraDA2\HutyraDA2\obj\Debug\net8.0-windows\ref\HutyraDA2.dll
