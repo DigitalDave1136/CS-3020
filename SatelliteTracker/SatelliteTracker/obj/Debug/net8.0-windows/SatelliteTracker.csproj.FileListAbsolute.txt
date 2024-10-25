@@ -1,0 +1,16 @@
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\bin\Debug\net8.0-windows\SatelliteTracker.exe
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\bin\Debug\net8.0-windows\SatelliteTracker.deps.json
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\bin\Debug\net8.0-windows\SatelliteTracker.runtimeconfig.json
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\bin\Debug\net8.0-windows\SatelliteTracker.dll
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\bin\Debug\net8.0-windows\SatelliteTracker.pdb
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.Form1.resources
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.csproj.GenerateResource.cache
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.AssemblyInfoInputs.cache
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.AssemblyInfo.cs
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.csproj.CoreCompileInputs.cache
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.dll
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\refint\SatelliteTracker.dll
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.pdb
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\SatelliteTracker.genruntimeconfig.cache
+D:\GitHub\CS-3020\SatelliteTracker\SatelliteTracker\obj\Debug\net8.0-windows\ref\SatelliteTracker.dll

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CS-3020\\UseCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\makedecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\makedecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\waterchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\waterchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\oxygenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\oxygenchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|d:\\github\\cs-3020\\usecase\\usecase\\foodchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60D04EC-8610-49E7-9D4D-EA41EC5068A0}|UseCase\\UseCase.csproj|solutionrelative:usecase\\foodchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeDecision.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\MakeDecision.cs",
+              "RelativeDocumentMoniker": "UseCase\\MakeDecision.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\MakeDecision.cs",
+              "RelativeToolTip": "UseCase\\MakeDecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:55:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\Timer.cs",
+              "RelativeDocumentMoniker": "UseCase\\Timer.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\Timer.cs",
+              "RelativeToolTip": "UseCase\\Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:55:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OxygenChecker.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\OxygenChecker.cs",
+              "RelativeDocumentMoniker": "UseCase\\OxygenChecker.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\OxygenChecker.cs",
+              "RelativeToolTip": "UseCase\\OxygenChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:44:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaterChecker.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\WaterChecker.cs",
+              "RelativeDocumentMoniker": "UseCase\\WaterChecker.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\WaterChecker.cs",
+              "RelativeToolTip": "UseCase\\WaterChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:42:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodChecker.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\FoodChecker.cs",
+              "RelativeDocumentMoniker": "UseCase\\FoodChecker.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\FoodChecker.cs",
+              "RelativeToolTip": "UseCase\\FoodChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:39:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\Student.cs",
+              "RelativeDocumentMoniker": "UseCase\\Student.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\Student.cs",
+              "RelativeToolTip": "UseCase\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:31:32.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "UseCase\\ClassDiagram1.cd",
+              "ToolTip": "D:\\GitHub\\CS-3020\\UseCase\\UseCase\\ClassDiagram1.cd",
+              "RelativeToolTip": "UseCase\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-24T05:30:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

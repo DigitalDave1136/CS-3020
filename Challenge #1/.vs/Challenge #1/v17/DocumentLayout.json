@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CS-3020\\Challenge #1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B7A8E-F943-4466-9FC3-0B84E62FF7BA}|Challenge #1\\Challenge #1.csproj|d:\\github\\cs-3020\\challenge #1\\challenge #1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80B7A8E-F943-4466-9FC3-0B84E62FF7BA}|Challenge #1\\Challenge #1.csproj|solutionrelative:challenge #1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80B7A8E-F943-4466-9FC3-0B84E62FF7BA}|Challenge #1\\Challenge #1.csproj|d:\\github\\cs-3020\\challenge #1\\challenge #1\\challenge #1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C80B7A8E-F943-4466-9FC3-0B84E62FF7BA}|Challenge #1\\Challenge #1.csproj|solutionrelative:challenge #1\\challenge #1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Challenge #1",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\Challenge #1\\Challenge #1\\Challenge #1.csproj",
+              "RelativeDocumentMoniker": "Challenge #1\\Challenge #1.csproj",
+              "ToolTip": "D:\\GitHub\\CS-3020\\Challenge #1\\Challenge #1\\Challenge #1.csproj",
+              "RelativeToolTip": "Challenge #1\\Challenge #1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T02:25:12.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CS-3020\\Challenge #1\\Challenge #1\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge #1\\Program.cs",
+              "ToolTip": "D:\\GitHub\\CS-3020\\Challenge #1\\Challenge #1\\Program.cs",
+              "RelativeToolTip": "Challenge #1\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:06:24.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
