@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HutyraDA2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b6dc99a909473277240f3e3bf3b980e03e1f9b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1070a65c383280d578961afca9e5cde6db437fe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HutyraDA2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HutyraDA2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

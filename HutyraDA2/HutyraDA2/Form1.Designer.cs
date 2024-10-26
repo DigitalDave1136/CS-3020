@@ -50,7 +50,7 @@
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(378, 444);
+            ClientSize = new Size(378, 544);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Totally Not Wordle";

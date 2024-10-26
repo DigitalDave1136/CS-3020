@@ -48,8 +48,8 @@ namespace HutyraDA2
             int x = (this.ClientSize.Width - rowWidth) / 2;
             int y = 60;
 
-            //For loop to give 5 chance rows and 5 letter inputs
-            for (int i = 0; i < 5; i++)
+            //For loop to give 6 chance rows and 5 letter inputs
+            for (int i = 0; i < 6; i++)
             {
                 for(int j = 0; j < 5; j++)
                 {
@@ -85,7 +85,7 @@ namespace HutyraDA2
             //If input is a letter
             if (char.IsLetter(e.KeyChar))
             {
-                if(curCol < (curRow + 1) * 5)
+                if (curCol < (curRow + 1) * 5)
                 {
                     //letter is the input but uppercase
                     letter = char.ToUpper(e.KeyChar);
@@ -93,41 +93,50 @@ namespace HutyraDA2
                     labelList[curCol].Text = letter.ToString();
                     curCol += 1;
 
-                }else if (e.KeyChar == (char)(Keys.Enter))
+                }
+            }
+            //If you backspace
+            else if (e.KeyChar == '\b' && curCol > curRow * 5)
+            {
+                //Goes back from the current column and sets it to blank
+                curCol -= 1;
+                labelList[curCol].Text = "";
+            }
+            //If you press enter and every input is filled
+            else if (e.KeyChar == (char)(Keys.Enter))
+            {
+                //Build word from list
+                guess = Build_Word();
+                MessageBox.Show("The built word is: " + guess);
+                //Check if it's a valid word
+                if (Check_Valid(guess))
                 {
-                    //Build word from list
-                    guess = Build_Word();
-                    MessageBox.Show("The built word is: " + guess);
-                    //Check if it's a valid word
-                    if (Check_Valid(guess))
-                    {
-                        //Increase the guess amount and updates the labels so they're right, wrong, or right but in the wrong place
-                        guessAmount++;
-                        Update_Labels(guess);
+                    //Increase the guess amount and updates the labels so they're right, wrong, or right but in the wrong place
+                    guessAmount++;
+                    Update_Labels(guess);
 
-                        //Check if the word was guessed correctly and make a win text, then exit
-                        if (Check_Win(guess))
-                        {
-                            MessageBox.Show("You Win!");
-                            Application.Exit();
-                            return;
-                        }
-                        //Check if the player guessed too many times and make lose text, then exit
-                        else if (guessAmount >= 6)
-                        {
-                            MessageBox.Show("You Lost! Word was: " + word);
-                            Application.Exit();
-                            return;
-                        }
-                        //Move onto next row
-                        curRow++;
-                        curCol = curRow * 5;
-                    }
-                    //If guess isn't a real word, say that's it's not a real word
-                    else
+                    //Check if the word was guessed correctly and make a win text, then exit
+                    if (Check_Win(guess))
                     {
-                        MessageBox.Show("Not a valid word!");
+                        MessageBox.Show("You Win!");
+                        Application.Exit();
+                        return;
                     }
+                    //Check if the player guessed too many times and make lose text, then exit
+                    else if (guessAmount > 6)
+                    {
+                        MessageBox.Show("You Lost! Word was: " + word);
+                        Application.Exit();
+                        return;
+                    }
+                    //Move onto next row
+                    curRow++;
+                    curCol = curRow * 5;
+                }
+                //If guess isn't a real word, say that's it's not a real word
+                else
+                {
+                    MessageBox.Show("Not a valid word!");
                 }
             }
         }
